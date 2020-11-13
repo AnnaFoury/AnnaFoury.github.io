@@ -1,0 +1,65 @@
+h1 {
+	color:#2ba0ba;
+	text-align:center;
+	font-weight: bold;
+	font-size:35px;
+}
+
+h2 {
+	color:#3862c9;
+	text-decoration: underline;
+	font-size:25px;
+
+}
+
+h3 {
+	font-style:10px;
+	font-weight:bold;
+	text-align: center;
+	font-family: Time New Roman;
+	
+}
+
+h4 {
+	color:red;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size:12px;
+}
+
+h5 {
+	font-weight: bold;
+	text-decoration: underline;
+	font-family: Verdana;
+
+}
+
+
+h6 {
+	text-decoration: underline;
+	font-family: Georgia;
+	font-size: 17px;
+}
+
+h10 {
+	font-size: 16px;
+	font-family: Courier New;
+}
+
+p{
+	font-size:17px;
+}
+
+h11 {
+	font-size: 16px;
+	font-family: Courier New;
+}
+
+h12 {
+	font-size: 16px;
+	font-family: Trebuchet MS;
+}
+
+body{
+	background-color:#e0f7ff;
+}
